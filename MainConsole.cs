@@ -1,6 +1,14 @@
 ﻿using System;
 using System.IO;
 
+/*  Order of intended operations.
+ *  1. Get ROM.
+ *  2. Check Current ROM for proper version
+ *  3. Copy ROM and write random values to specific addresses to new file.
+ *  4. Implement or have user get the checksum re-hased for the game.       (Optional byte edit)
+ *  5. Save as a new ROM
+*/
+
 namespace SnowboardKidsRandomizer
 {
     class MainConsole
