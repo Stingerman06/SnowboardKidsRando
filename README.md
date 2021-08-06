@@ -10,10 +10,12 @@ A basic randomizer for Snowboard Kids for the N64. Uses the console window.
 Have data locations|Still Searching for...
 -------------------|-----------------------------
 Coins and Weapons|Game Music
-Racers|Shot/Speed/Trick Game/Time Trial Scoreboard
+Racers|Shot/Speed/Trick Game/Time Trial Scoreboard*
 Racers Boards|Required 'G' for Snowboards
 Shot Game's "Snowmen"|Track Offsets
 Speed Game's "Fans"|Trick Points
+
+* - Found the data locations, still figuring out which is which. Not very organized.
 
 ### Options for generating game
 
